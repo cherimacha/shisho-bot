@@ -1,0 +1,10 @@
+#!/bin/bash
+PORT="8888" \
+HUBOT_SLACK_TOKEN="xoxb-4289541636-fxbVzGpHbdaaXf3hMlvQejhj" \
+HUBOT_SLACK_TEAM=Clan \
+HUBOT_SLACK_BOTNAME="clan_bot" \
+HUBOT_SLACK_CHANNELMODE=whitelist \
+HUBOT_SLACK_CHANNELS=general \
+HUBOT_SLACK_ADAPTER=slack
+HUBOT_NAME=clan_bot \
+/Users/omura.suguru/git/other/sushibot/bin/hubot
